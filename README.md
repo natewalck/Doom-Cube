@@ -1,7 +1,9 @@
 # Doom-Cube
-Mod for V2.4!
+A mod for V2.4 designed by the Voron community, for the Voron community! Please note that it is a work in progress, design iterations are expected. The files are hosted on github so we have a log of the past history for the parts.
 
-Key features:
+
+
+#### Key features:
 
 -4040 vertical components to allow for insulation with air gap stock
 
@@ -13,8 +15,16 @@ Key features:
 
 
 
-Changes required:
+#### Changes required:
 
 -4pcs 4040 extrusions (HFSB5-4040)
 
 -New Z Idlers
+
+
+
+#### Tips for printing parts:
+
+-For any Voron stock parts, or the Z idlers, please use standard settings
+
+-For skirts, etc, you may use other settings to reduce filament usage. Currently I am using: 0.3mm layer height, 2 perimeters, 2 bottom, 3 top, 20% infill. 
