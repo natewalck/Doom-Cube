@@ -1,0 +1,3 @@
+[submodule "Voron2.4"]
+	path = Voron2.4
+	url = https://github.com/VoronDesign/Voron-2
