@@ -1,7 +1,7 @@
 # Doom-Cube
 A mod for V2.4 designed by the Voron community, for the Voron community! Please note that it is a work in progress, design iterations are expected. The files are hosted on github so we have a log of the past history for the parts.
 
-
+![image-20201221110435035](images/image-20201221110435035.png)
 
 #### Key features:
 
