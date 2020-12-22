@@ -1,7 +1,9 @@
 # Doom-Cube
-**Mod for V2.4!**
+A mod for V2.4 designed by the Voron community, for the Voron community! Please note that it is a work in progress, design iterations are expected. The files are hosted on github so we have a log of the past history for the parts.
 
-Key features:
+![image-20201221110435035](images/image-20201221110435035.png)
+
+#### Key features:
 
 -4040 vertical components to allow for insulation with air gap stock
 
@@ -11,41 +13,18 @@ Key features:
 
 -Bottom mounted high voltage components
 
--Integrated Exhaust fan in top
+
+
+#### Changes required:
+
+-4pcs 4040 extrusions (HFSB5-4040)
+
+-New Z Idlers
 
 
 
-![image-20201221110435035](images/image-20201221110435035.png)
+#### Tips for printing parts:
 
-**Changes required:**
+-For any Voron stock parts, or the Z idlers, please use standard settings
 
--4pcs 4040 extrusions (HFSB5-4040). Will need to be tapped/drilled, I recommend DIY
-
--New Z Idler prints (to allow for deck panel to be flush)
-
--24 M5x40 SHCS
-
--Longer DIN rails (+40mm) - may be able to reuse existing with a printed support
-
--Reflectix
-
--New outer panels (TBD)
-
--New exhaust fan (TBD)
-
--Magnets
-
--Filament for new skirts (TBD, but possibly 2kg base and 1kg accent)
-
-
-
-**Optional:** 
-
--Potential option for new touchscreen display
-
--High temp belts (current are same length as stock, but account for extra if you can in case the idlers are reworked)
-
-
-
-
-
+-For skirts, etc, you may use other settings to reduce filament usage. Currently I am using: 0.3mm layer height, 2 perimeters, 2 bottom, 3 top, 20% infill. 
