@@ -18,8 +18,8 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
-| hartk1213 | [Rounded_DOOM](./hartk1213/Rounded_DOOM) | Doom Cube using rounded extrusions instead of the standard square  4040 |
-|| [Colored_Logo_Upper_Corners](./hartk1213/Colored_Logo_Upper_Corners) | Upper corners with a press in DC logo for the standard square 4040 |
+| hartk1213 | [Rounded_DOOM](https://github.com/FrankenVoron/Doom-Cube/tree/main/Mods/Rounded_DOOM) | Doom Cube using rounded extrusions instead of the standard square  4040 |
+|| [Colored_Logo_Upper_Corners](https://github.com/FrankenVoron/Doom-Cube/tree/main/Mods/Colored_Logo_Upper_Corners) | Upper corners with a press in DC logo for the standard square 4040 |
 
 
 ---
