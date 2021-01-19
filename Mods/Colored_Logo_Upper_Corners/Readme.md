@@ -7,6 +7,6 @@ This is an alternative to the upper corners for standard 4040 DOOM that uses a s
 
 
 ##### Pictures
-![1](IMAGES/1.jpg)
-![2](IMAGES/2.jpg)
-![3](IMAGES/3.jpg)
+![1](IMAGES/1.png)
+![2](IMAGES/2.png)
+![3](IMAGES/3.png)
