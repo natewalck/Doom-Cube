@@ -1,3 +1,4 @@
+
 # Choosing your DoomCube Frame
 
 ## Pre-Drilled vs DIY
@@ -10,61 +11,81 @@ Please reference [this video](https://www.youtube.com/watch?v=2dvbn0rWA60), befo
 
 All extrusions are listed using Misumi part numbers.
 
-### Extrusions Based on Build Size
+## Extrusions Based on Build Size
 
-#### 350
+### DOOM-350
+### Frame Extrusions
+#### DIY
+Misumi Part #  |Qty|
+----|----|------|---|
+Verticals: HFSB5-4040-530 |4 |$15.58 per
 
-DIY
-Verticals: HFSB5-4040-530 x4 $15.58 per
+#### Pre-Drilled
+Misumi Part #  |Qty|
+----|----|------|---|
+Verticals: HFSB5-4040-530-LCP-RCP |4 |$25.18 per
 
-Pre-Drilled
-Verticals: HFSB5-4040-530-LCP-RCP x4 $25.18 per
+### Door Extrusions
 
-Door Extrusions
+#### DIY
+Misumi Part #  |Qty|
+----|----|------|---|
+HFSB5-2020-530|2
+HFSB5-2020-428|2
 
-DIY
-HFSB5-2020-530
-HFSB5-2020-428
+#### Pre-Drilled
+Misumi Part #  |Qty|
+----|----|------|---|
+HFSB5-2020-530-AH10-BH520|2
+HFSB5-2020-428|2
 
-Pre-Drilled
-HFSB5-2020-530-AH10-BH520
-HFSB5-2020-428
+### DOOM-300
+#### DIY
+Misumi Part #  |Qty|
+----|----|------|---|
+Verticals: HFSB5-4040-480 |4| $14.11 per
+#### Pre-Drilled
+Misumi Part #  |Qty|
+----|----|------|---|
+Verticals: HFSB5-4040-480-LCP-RCP |4| $23.71 per
+### Door Extrusions
+#### DIY
+Misumi Part #  |Qty|
+----|----|------|---|
+HFSB5-2020-480|2
+HFSB5-2020-378|2
+#### Pre-Drilled
+Misumi Part #  |Qty|
+----|----|------|---|
+HFSB5-2020-480-AH10-BH520|2
+HFSB5-2020-378|2
 
-#### 300
+### DOOM-250
+### Frame Extrusions
+#### DIY
+Misumi Part #  |Qty|
+----|----|------|---|
+HFSB5-4040-430 |4 |$12.34 per
 
-DIY
-Verticals: HFSB5-4040-480 x4 $14.11 per
+#### Pre-Drilled
+Misumi Part #  |Qty| Price|
+----|----|------|---|
+HFSB5-4040-430-LCP-RCP| 4 |$21.94 per
 
-Pre-Drilled
-Verticals: HFSB5-4040-480-LCP-RCP x4 $23.71 per
+### Door Extrusions
 
-Door Extrusions
+#### DIY
+Misumi Part #  |Qty| 
+----|----|------|
+HFSB5-2020-430|2
+HFSB5-2020-328|2
 
-DIY
-HFSB5-2020-480
-HFSB5-2020-378
+#### Pre-Drilled
 
-Pre-Drilled
-HFSB5-2020-480-AH10-BH520
-HFSB5-2020-378
-
-#### 250
-
-DIY
-Verticals: HFSB5-4040-430 x4 $12.34 per
-
-Pre-Drilled
-Verticals: HFSB5-4040-430-LCP-RCP x4 $21.94 per
-
-Door Extrusions
-
-DIY
-HFSB5-2020-430
-HFSB5-2020-328
-
-Pre-Drilled
-HFSB5-2020-430-AH10-BH420
-HFSB5-2020-328
+Misumi Part #  |Qty| 
+----|----|------|
+HFSB5-2020-430-AH10-BH420|2
+HFSB5-2020-328|2
 
 #### Door Hinges
 
