@@ -66,3 +66,8 @@ Pre-Drilled
 HFSB5-2020-430-AH10-BH420
 HFSB5-2020-328
 
+#### Door Hinges
+
+|Misumi Part #  |Qty|
+------|---|
+HHPSN5-SET|2|
