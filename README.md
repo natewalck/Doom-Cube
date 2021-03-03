@@ -78,7 +78,7 @@ HFSB5-2020-378|2
 #### Pre-Drilled
 Misumi Part #  |Qty|
 ----|----|
-HFSB5-2020-480-AH10-BH520|2
+HFSB5-2020-480-AH10-BH470|2
 HFSB5-2020-378|2
 
 ### DOOM-250
