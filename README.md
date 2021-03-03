@@ -109,7 +109,9 @@ HFSB5-2020-430-AH10-BH420|2
 HFSB5-2020-328|2
 
 #### Door Hinges
+Silver and Black are listed 
 
-|Misumi Part #  |Qty|
-------|---|
-HHPSN5-SET|2
+|Misumi Part #  |Qty|Color
+------|---|---|
+HHPSN5-SET|2| Silver
+HHPBSN5-SET|2| Black
